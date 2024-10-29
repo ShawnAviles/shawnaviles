@@ -1,6 +1,6 @@
 ## Hi! I'm Shawn👋
 
-I am an undergraduate student studying Computer Engineering at Stevens Institute of Technology. I previously worked as a Software Engineer Intern for Intuit Mailchimp and will be working at Amazon this summer 2024 as a SDE Intern. I am passionate about technology and love learning new things. Feel free to checkout my personal website and socials for more about me!
+I am a graduate student studying Computer Engineering at Stevens Institute of Technology. I previously worked as a Software Engineer Intern for Amazon & Intuit Mailchimp, and I'm actively recruiting for full-time positions. I am passionate about technology and love learning new things. Feel free to checkout my personal website and socials for more about me!
 
 [![website](https://img.shields.io/badge/-shawnaviles.com-red?style=for-the-badge)](https://www.shawnaviles.com)
 
